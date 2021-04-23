@@ -1,1 +1,303 @@
+<<<<<<< HEAD
 <mxfile host="6793bd43-dbd6-4251-a7d8-ecdd77ee4a32" modified="2021-04-23T03:25:32.819Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.52.0 Chrome/83.0.4103.122 Electron/9.3.5 Safari/537.36" etag="jI-V7EOQQrxOQ7NoM_u-" version="12.2.4" pages="1"><diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">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</diagram></mxfile>
+=======
+<mxfile host="app.diagrams.net" modified="2021-03-18T09:25:39.716Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.72 Safari/537.36" etag="O4t-oKbLEF_XbZvqJwWe" version="14.4.8" type="github">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="1673" dy="2102" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="159" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="0" target="47" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="168" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="102" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="751.666666666667" y="-883" as="sourcePoint" />
+            <mxPoint x="1130" y="-510.6666666666665" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="752" y="-933" />
+              <mxPoint x="960" y="-933" />
+              <mxPoint x="960" y="-680" />
+              <mxPoint x="1490" y="-680" />
+              <mxPoint x="1490" y="-230" />
+              <mxPoint x="980" y="-230" />
+              <mxPoint x="980" y="-497" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0" value="BaseTableView" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="587" y="-870" width="330" height="214" as="geometry" />
+        </mxCell>
+        <mxCell id="1" value="- m_itemDelegate:BaseItemDelegate&#xa;- m_headerView:BaseHeaderView" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="0" vertex="1">
+          <mxGeometry y="26" width="330" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="2" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" parent="0" vertex="1">
+          <mxGeometry y="70" width="330" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="3" value="- paintEvent(QPaintEvent *event): void" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="0" vertex="1">
+          <mxGeometry y="78" width="330" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="5" value="- drawRow(QPainter *painter, const QStyleOptionViewItem &#xa;                   &amp;options,const QModelIndex &amp;index):void&#xa;&#xa;&#xa; " style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="0" vertex="1">
+          <mxGeometry y="104" width="330" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="4" value="- currentChanged(const QModelIndex &amp;current, &#xa;                             const QModelIndex &amp;previous):void&#xa;&#xa; " style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="0" vertex="1">
+          <mxGeometry y="140" width="330" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6" value="- viewportEvent(QEvent *event):bool&#xa;&#xa;&#xa; " style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="0" vertex="1">
+          <mxGeometry y="180" width="330" height="34" as="geometry" />
+        </mxCell>
+        <object label="BaseItemDelegate" BaseItemDelegate="" id="11">
+          <mxCell style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+            <mxGeometry x="100" y="-690" width="330" height="140" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="14" value="+ paint(QPainter *painter, const QStyleOptionViewItem &#xa;&amp;option,const QModelIndex &amp;index) const override:void" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="11" vertex="1">
+          <mxGeometry y="26" width="330" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="15" value="+ createEditor(QWidget *, const QStyleOptionViewItem &amp;,&#xa;                          const QModelIndex &amp;) const override:QWidget*" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="11" vertex="1">
+          <mxGeometry y="60" width="330" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="16" value="+ sizeHint(const QStyleOptionViewItem &amp;option, &#xa;const QModelIndex &amp;index):QSize" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="11" vertex="1">
+          <mxGeometry y="100" width="330" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="19" value="BaseHeaderView" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="133" y="-500" width="297" height="332" as="geometry" />
+        </mxCell>
+        <mxCell id="20" value="- m_spacing: int" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="19" vertex="1">
+          <mxGeometry y="26" width="297" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="23" value="- m_hover: int" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="19" vertex="1">
+          <mxGeometry y="52" width="297" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="25" value="- m_pressed: int" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="19" vertex="1">
+          <mxGeometry y="78" width="297" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="21" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" parent="19" vertex="1">
+          <mxGeometry y="104" width="297" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="22" value="+ sizeHint(): QSize" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="19" vertex="1">
+          <mxGeometry y="112" width="297" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="24" value="+ sectionSizeHint(int logicalIndex): int" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="19" vertex="1">
+          <mxGeometry y="138" width="297" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="26" value="+ getSpacing(): int" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="19" vertex="1">
+          <mxGeometry y="164" width="297" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="27" value="+ setSpacing(int spacing): void" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="19" vertex="1">
+          <mxGeometry y="190" width="297" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="28" value="- paintEvent(QPaintEvent *e): void" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="19" vertex="1">
+          <mxGeometry y="216" width="297" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="29" value="- paintSection(QPainter *painter, const QRect &amp;rect,&#xa;                        int logicalIndex): void" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="19" vertex="1">
+          <mxGeometry y="242" width="297" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="30" value="- eventFilter(QObject *obj, QEvent *ev): bool" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="19" vertex="1">
+          <mxGeometry y="280" width="297" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="31" value="- viewportEvent(QEvent *e): bool" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="19" vertex="1">
+          <mxGeometry y="306" width="297" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="34" value="BackupPage" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="1130" y="-1050" width="320" height="268" as="geometry" />
+        </mxCell>
+        <mxCell id="35" value="- ..." style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="34" vertex="1">
+          <mxGeometry y="26" width="320" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="38" value="- m_addBackupItem:RadioItem" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="34" vertex="1">
+          <mxGeometry y="52" width="320" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="42" value="- m_coverBackupItem:RadioItem" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="34" vertex="1">
+          <mxGeometry y="78" width="320" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="47" value="- m_treeView:BaseTableView" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="34" vertex="1">
+          <mxGeometry y="104" width="320" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="41" value="- m_treeViewModel:TreeViewModel" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="34" vertex="1">
+          <mxGeometry y="130" width="320" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="36" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" parent="34" vertex="1">
+          <mxGeometry y="156" width="320" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="44" value="+ ..." style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="34" vertex="1">
+          <mxGeometry y="164" width="320" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="37" value="- setColnumWidth(): void" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="34" vertex="1">
+          <mxGeometry y="190" width="320" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="40" value="Q_SIGNALS:" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="34" vertex="1">
+          <mxGeometry y="216" width="320" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="45" value="+ requestTreeViewListItem(TreeViewModel* model): void" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="34" vertex="1">
+          <mxGeometry y="242" width="320" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="156" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="50" target="103" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="510" y="-410" />
+              <mxPoint x="510" y="-471" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="157" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="50" target="41" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="510" y="-411" />
+              <mxPoint x="510" y="-169" />
+              <mxPoint x="1530" y="-169" />
+              <mxPoint x="1530" y="-739" />
+              <mxPoint x="990" y="-739" />
+              <mxPoint x="990" y="-908" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="50" value="TreeViewModel" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="550" y="-429" width="367" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="51" value="- m_rowNum: int" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="50" vertex="1">
+          <mxGeometry y="26" width="367" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="52" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" parent="50" vertex="1">
+          <mxGeometry y="52" width="367" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="53" value="+ headerData(int section, Qt::Orientation &#xa;                       orientation, int role = Qt::DisplayRole): QVariant" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="50" vertex="1">
+          <mxGeometry y="60" width="367" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="54" value="+ appendRow(const QList&lt;QStandardItem*&gt; &amp;items): void" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="50" vertex="1">
+          <mxGeometry y="100" width="367" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="55" value="+ rowCount(const QModelIndex &amp;parent = QModelIndex()): int" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="50" vertex="1">
+          <mxGeometry y="130" width="367" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="56" value="+ columnCount(const QModelIndex &amp;parent = QModelIndex()): int" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="50" vertex="1">
+          <mxGeometry y="160" width="367" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="151" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="64" target="38" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="550" y="-985" />
+              <mxPoint x="550" y="-985" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="153" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1" target="42">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="430" y="-984.8" as="sourcePoint" />
+            <mxPoint x="1130" y="-964" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="480" y="-985" />
+              <mxPoint x="480" y="-959" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="164" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="109" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="430" y="-985" as="sourcePoint" />
+            <mxPoint x="1130" y="-580" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="480" y="-985" />
+              <mxPoint x="480" y="-575" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="165" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="100" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="430" y="-985" as="sourcePoint" />
+            <mxPoint x="1130" y="-554" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="480" y="-985" />
+              <mxPoint x="480" y="-549" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="166" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="101" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="430" y="-985" as="sourcePoint" />
+            <mxPoint x="1130" y="-528" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="480" y="-985" />
+              <mxPoint x="480" y="-523" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="64" value="RadioItem" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="210" y="-1000" width="220" height="268" as="geometry" />
+        </mxCell>
+        <mxCell id="65" value="- m_layout: QVBoxLayout*" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="64" vertex="1">
+          <mxGeometry y="26" width="220" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="68" value="- m_radioBtn: QRadioButton*" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="64" vertex="1">
+          <mxGeometry y="52" width="220" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="69" value="- m_content: QWidget*" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="64" vertex="1">
+          <mxGeometry y="78" width="220" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="66" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" parent="64" vertex="1">
+          <mxGeometry y="104" width="220" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="67" value="+ radioButton(): QRadioButton*" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="64" vertex="1">
+          <mxGeometry y="112" width="220" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="70" value="+ setTitle(const QString&amp; title): void" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="64" vertex="1">
+          <mxGeometry y="138" width="220" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="71" value="+ checked(): bool" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="64" vertex="1">
+          <mxGeometry y="164" width="220" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="72" value="+ setChecked(bool check): void" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="64" vertex="1">
+          <mxGeometry y="190" width="220" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="81" value="+ getContent(): QWidget*" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="64" vertex="1">
+          <mxGeometry y="216" width="220" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="73" value="+ getContent(): QWidget*" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="64" vertex="1">
+          <mxGeometry y="242" width="220" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="98" value="RestorePage" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="1130" y="-640" width="320" height="346" as="geometry" />
+        </mxCell>
+        <mxCell id="99" value="- ..." style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="98" vertex="1">
+          <mxGeometry y="26" width="320" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="109" value="- m_systemRestore:RadioItem" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="98" vertex="1">
+          <mxGeometry y="52" width="320" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="100" value="- m_addBackupItem:RadioItem" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="98" vertex="1">
+          <mxGeometry y="78" width="320" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="101" value="- m_coverBackupItem:RadioItem" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="98" vertex="1">
+          <mxGeometry y="104" width="320" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="102" value="- m_treeView:BaseTableView" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="98" vertex="1">
+          <mxGeometry y="130" width="320" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="103" value="- m_treeViewModel:TreeViewModel" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="98" vertex="1">
+          <mxGeometry y="156" width="320" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="104" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" parent="98" vertex="1">
+          <mxGeometry y="182" width="320" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="105" value="+ ..." style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="98" vertex="1">
+          <mxGeometry y="190" width="320" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="106" value="- setColnumWidth(): void" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="98" vertex="1">
+          <mxGeometry y="216" width="320" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="110" value="Q_SIGNALS:" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="98" vertex="1">
+          <mxGeometry y="242" width="320" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="111" value="+ requestTreeViewListItem(TreeViewModel* model): void" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="98" vertex="1">
+          <mxGeometry y="268" width="320" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="107" value="private Q_SLOTS:" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="98" vertex="1">
+          <mxGeometry y="294" width="320" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="108" value="- onItemChecked(): void" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="98" vertex="1">
+          <mxGeometry y="320" width="320" height="26" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
+>>>>>>> 65ed7aeb5e4173da068019d9f407d6fcd85c0a84
