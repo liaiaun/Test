@@ -1,26 +1,50 @@
-<mxfile host="app.diagrams.net" modified="2021-04-26T02:18:42.486Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.72 Safari/537.36" etag="oR2gW-1kCNMJp_BB5lLC" version="14.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-26T02:23:29.404Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.72 Safari/537.36" etag="nR84S_UNH8kq2wfQS1CS" version="14.6.6" type="github">
   <diagram id="KuM8feEAEbuAZmYZ-RdC" name="第 1 页">
-    <mxGraphModel dx="474" dy="254" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="981" dy="525" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="OkKVm4SSPz9F8FKbyVNO-1" value="考纲" style="ellipse;whiteSpace=wrap;html=1;align=center;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};treeFolding=1;treeMoving=1;direction=west;" vertex="1" parent="1">
           <mxGeometry x="110" y="350" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="OkKVm4SSPz9F8FKbyVNO-8" value="Sub Topic" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" vertex="1" parent="1">
-          <mxGeometry x="250" y="400" width="72" height="26" as="geometry" />
+        <mxCell id="OkKVm4SSPz9F8FKbyVNO-8" value="组织行为学" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" vertex="1" parent="1">
+          <mxGeometry x="236" y="350" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OkKVm4SSPz9F8FKbyVNO-9" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" target="OkKVm4SSPz9F8FKbyVNO-8" parent="1" source="OkKVm4SSPz9F8FKbyVNO-1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="210" y="390" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OkKVm4SSPz9F8FKbyVNO-10" value="Sub Topic" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" vertex="1" parent="1">
-          <mxGeometry x="250" y="290" width="72" height="26" as="geometry" />
+        <mxCell id="OkKVm4SSPz9F8FKbyVNO-10" value="管理学基础" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" vertex="1" parent="1">
+          <mxGeometry x="236" y="288" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OkKVm4SSPz9F8FKbyVNO-11" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" target="OkKVm4SSPz9F8FKbyVNO-10" parent="1" source="OkKVm4SSPz9F8FKbyVNO-1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="339.30000000000007" y="260" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OkKVm4SSPz9F8FKbyVNO-12" value="人力资源管理" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" vertex="1" parent="1">
+          <mxGeometry x="236" y="390" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OkKVm4SSPz9F8FKbyVNO-13" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;" edge="1" target="OkKVm4SSPz9F8FKbyVNO-12" parent="1" source="OkKVm4SSPz9F8FKbyVNO-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="210" y="369.99999999999994" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OkKVm4SSPz9F8FKbyVNO-14" value="行政伦理学" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" vertex="1" parent="1">
+          <mxGeometry x="241" y="450" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OkKVm4SSPz9F8FKbyVNO-15" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" target="OkKVm4SSPz9F8FKbyVNO-14" parent="1" source="OkKVm4SSPz9F8FKbyVNO-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="210" y="370" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OkKVm4SSPz9F8FKbyVNO-16" value="公文写作" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" vertex="1" parent="1">
+          <mxGeometry x="241" y="498" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OkKVm4SSPz9F8FKbyVNO-17" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" target="OkKVm4SSPz9F8FKbyVNO-16" parent="1" source="OkKVm4SSPz9F8FKbyVNO-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="210" y="370" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
       </root>
